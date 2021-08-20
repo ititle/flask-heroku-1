@@ -1,5 +1,6 @@
 from flask import Flask, jsonify
 from flask import Flask, render_template
+
 app = Flask(__name__)
 
 data = [
