@@ -32,7 +32,7 @@ def get_api():
 
 @app.route('/name')
 def name():
-  return"<font color=green>กฤศ วงษ์เหม</font> <br>เลขที่1 ชั้น ม.4/10"       
+  return"<font color=red>กฤศ วงษ์เหม</font> <br>เลขที่1 ชั้น ม.4/10"       
 
 
 if __name__ == "__main__":
